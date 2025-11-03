@@ -1,6 +1,6 @@
 # RL-Algorithms
 
-This repo explores **Reinforcement Learning (RL)** techniques to train an autonomous car agent in two simulation environments using using **Stable Baselines3**: **CarRacing-v2 (Gymnasium)** and **CARLA**.
+This repo explores **Reinforcement Learning (RL)** techniques to train an autonomous car agent in two simulation environments using using Stable Baselines3: **CarRacing-v2 (Gymnasium)** and **CARLA**.
 
 ## Overview
 
