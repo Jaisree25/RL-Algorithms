@@ -27,7 +27,7 @@ Trained for 200 episodes (~2 hours) on CarRacing-v2 environment.
 
 **Key observations:**
 - Initial rewards: ~-60
-- Final rewards: ~-20 with occasional positive spikes
+- ~-20 with occasional positive spikes
 - Consistent learning pattern emerged after episode 150
 
 ## Key Implementation Details
