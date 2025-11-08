@@ -41,5 +41,3 @@ Increased episodes from 200 to 500
 ## References
 
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) - Mnih et al., 2013
-**Framework:** PyTorch  
-**Compute:** Nautilus HyperCluster
